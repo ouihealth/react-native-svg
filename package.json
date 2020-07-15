@@ -57,8 +57,7 @@
     "react": "*",
     "react-native": ">=0.50.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@react-native-community/bob": "^0.9.7",
     "@react-native-community/eslint-config": "0.0.7",
