@@ -24,13 +24,13 @@ import Mask from './elements/Mask';
 import Marker from './elements/Marker';
 import ForeignObject from './elements/ForeignObject';
 import { parse, SvgAst, SvgFromUri, SvgFromXml, SvgUri, SvgXml } from './xml';
-import {
-  SvgCss,
-  SvgCssUri,
-  SvgWithCss,
-  SvgWithCssUri,
-  inlineStyles,
-} from './css';
+// import {
+//   SvgCss,
+//   SvgCssUri,
+//   SvgWithCss,
+//   SvgWithCssUri,
+//   inlineStyles,
+// } from './css';
 import { LocalSvg, WithLocalSvg, loadLocalRawResource } from './LocalSvg';
 import {
   RNSVGCircle,
@@ -87,11 +87,11 @@ export {
   SvgFromXml,
   SvgUri,
   SvgXml,
-  SvgCss,
-  SvgCssUri,
-  SvgWithCss,
-  SvgWithCssUri,
-  inlineStyles,
+  // SvgCss,
+  // SvgCssUri,
+  // SvgWithCss,
+  // SvgWithCssUri,
+  // inlineStyles,
   LocalSvg,
   WithLocalSvg,
   loadLocalRawResource,
